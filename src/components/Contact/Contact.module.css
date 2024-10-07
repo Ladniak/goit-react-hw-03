@@ -1,0 +1,17 @@
+.div {
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+}
+
+.contactName {
+  margin: 0;
+}
+
+.contactNumber {
+  margin: 0;
+}
+
+.btn {
+  padding: 5px 7px;
+}
