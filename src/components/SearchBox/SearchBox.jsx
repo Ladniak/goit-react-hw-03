@@ -1,4 +1,4 @@
-import module from "./SearchBox.module.css"
+import module from "./SearchBox.module.css";
 
 const SearchBox = ({ setSearchValue, searchValue }) => {
 
